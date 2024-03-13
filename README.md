@@ -35,9 +35,23 @@ Personal Computer Issues  | High
 Equipement Request        | Normal
 Password Reset            | Least
 
-Once you log in as Jane, you should see this with all priority set to normal. We'll work on the mobile online banking issue first. 
+Once you log in as Jane, you should see this with all priority set to normal. Let's take a look at the mobile online banking issue. 
 
 ![image](https://github.com/riquewill1977/osticket-lifecycle/assets/139101776/65dd4724-ef9d-4af7-b3d2-62a27a5915c5)
+
+Update the the following on the ticket.
+
+
+- Priority to Emergency
+- Department to System Administrators
+- Assigned to Jane Doe
+- SLA Plan to SLA-A
+
+
+![image](https://github.com/riquewill1977/osticket-lifecycle/assets/139101776/52be9ee3-2fc1-4dd8-8dc8-1af89d3c547d)
+
+
+
 
 
 
