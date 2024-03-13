@@ -25,8 +25,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Resolutions by Priority</h2>
 
+Help Topic  | Priority
+------------- | -------------
+Business Critical Outage  | Emergency
+Personal Computer Issues  | High
+Equipement Request        | Normal
 
-- 1.Business Critical Outage
+
+- Business Critical Outage (Enmergency)
 This priority should be set to "Emergency"
 - 2. Personal Computer Issues
 This priority can be "High"
