@@ -50,6 +50,32 @@ Update the the following on the ticket.
 
 ![image](https://github.com/riquewill1977/osticket-lifecycle/assets/139101776/52be9ee3-2fc1-4dd8-8dc8-1af89d3c547d)
 
+Scroll to the bottom of the ticket and post a reply stating that you'll be coordinating with the Sys Admin Team. 
+
+Leave the ticket status as "open" and click post reply.
+
+![image](https://github.com/riquewill1977/osticket-lifecycle/assets/139101776/f8fe1788-a976-4ecf-a427-c994e335720a)
+
+We now see in the list of open tickets that the ticket now has a priority of "Emergency" and Assigned To "Jane Doe"
+
+![image](https://github.com/riquewill1977/osticket-lifecycle/assets/139101776/c73de4de-3dd2-484a-ad3e-9096f1170939)
+
+We can go back in and pretend that we took care of the ticket. Set the ticket to "resolved" and post.
+
+![image](https://github.com/riquewill1977/osticket-lifecycle/assets/139101776/d9b473a1-e080-4cfd-8af4-5c1f4fd8cd60)
+
+The ticket has now been removed from the list "Open" tickets to "Closed"
+
+![image](https://github.com/riquewill1977/osticket-lifecycle/assets/139101776/7a766e10-0c36-49cc-a016-529c06e0a070)
+
+Repeat the steps by assigning the correct priorities, department, assigned to and SLA plan to each ticket. 
+
+
+
+
+
+
+
 
 
 
