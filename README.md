@@ -16,6 +16,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Windows 10</b> (21H2)
 
 <h2>Ticket Lifecycle Stages</h2>
+
+
 - Intake
 - Assignment and Communication
 - Working the Issue
@@ -30,3 +32,5 @@ This priority can be "High"
 Normal Priority
 - 4. Password Reset
 Least Priority
+
+
