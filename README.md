@@ -25,20 +25,22 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Resolutions by Priority</h2>
 
+We'll log in as the Agent Jane Doe and set the correct priority to the tickets as shown in the table below.
+
+
 Help Topic  | Priority
 ------------- | -------------
 Business Critical Outage  | Emergency
 Personal Computer Issues  | High
 Equipement Request        | Normal
+Password Reset            | Least
+
+Once you log in as Jane, you should see this with all priority set to normal. We'll work on the mobile online banking issue first. 
+
+![image](https://github.com/riquewill1977/osticket-lifecycle/assets/139101776/65dd4724-ef9d-4af7-b3d2-62a27a5915c5)
 
 
-- Business Critical Outage (Enmergency)
-This priority should be set to "Emergency"
-- 2. Personal Computer Issues
-This priority can be "High"
-- 3. Equipement Request
-Normal Priority
-- 4. Password Reset
-Least Priority
+
+
 
 
